@@ -1,14 +1,10 @@
 # Personaje2024
 ## Nombre del personaje
-Jack (El extraño mundo de Jack: Pelicula).
+Duende Navideño.
 ## Creador
-Juan Francisco Rodriguez Guerrero
+Chavero Martínez Noé
 ## Explicacion del funcionamiento
-El personaje contendra una caja de regalo en manos, la cual por medio de un servo levantara una de las manos para abir la caja de regalo
-dentro de esta caja habra una serie de leds que prenderan en cuanto se levante la tapa; esto sucedera al momento de que una entidad se acerque
-mucho al personaje.
-Otra caracteristica sera que este emitira mensajes distintos al momento de que la entidad se acerque dependiendo la iluminacion ambiental.
-Ademas cuando esto suceda se encenderan focos leds dentro de la cabeza del personaje.
+El personaje tendrá un regalo en las manos, el cual lo estará moviendo continuamente, dará sonido de risa y prenderá el led en su gorro.
 ## Materiales a utlizar
 |Material|Imagen|Cantidad|Costo|
 |--|--|--|--|
@@ -32,10 +28,31 @@ Ademas cuando esto suceda se encenderan focos leds dentro de la cabeza del perso
 Imagen hecha a mano o con software
 
 ## Enlaces de la simulación de wokwi
-Deben ser de 1 a 2 enlaces de wokwi
+Instrumento de evaluación
+https://wokwi.com/projects/410070889050588161
 
 ## Videos
-Enlace del vídeo en drive u cualquier otro repositorio donde yo como docente pueda evaluar con una duración máxima de 5 minutos.
+
 
 ## Capturas de Evaluaciones de Curso de C
-Capturas de pantalla de sus resultados de evaluaciones del curso de C.
+Modulo 1
+![image](https://github.com/user-attachments/assets/e45c5280-f7b7-4126-8a76-2253b0c0ffb0)
+
+Modulo 2
+![image](https://github.com/user-attachments/assets/bc7c4061-b403-44bc-80ae-9b7c48dc3f74)
+
+Modulo 3
+![image](https://github.com/user-attachments/assets/16657a22-1047-4d27-9567-a1ee8a32b585)
+
+Modulo 4
+![image](https://github.com/user-attachments/assets/bffbbbdd-bfdf-4151-9c38-4dabe310ee29)
+
+Modulo 5
+![image](https://github.com/user-attachments/assets/cc3a134e-1110-44b6-8f9b-d9b6c597c547)
+
+
+TEST FINAL
+![image](https://github.com/user-attachments/assets/b77f0420-815f-48d8-a0c6-6faf5e4697fc)
+
+
+
