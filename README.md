@@ -4,7 +4,7 @@ Duende Navideño.
 ## Creador
 Chavero Martínez Noé
 ## Explicacion del funcionamiento
-El personaje tendrá un regalo en las manos, el cual lo estará moviendo continuamente, dará sonido de risa y prenderá el led en su gorro.
+El personaje tendrá un regalo en las manos, el cual lo estará moviendo continuamente, dará sonido de música y prenderán los leds que estarán en sus ojos.
 ## Materiales a utlizar
 |Material|Imagen|Cantidad|Costo|
 |--|--|--|--|
@@ -25,6 +25,7 @@ El personaje tendrá un regalo en las manos, el cual lo estará moviendo continu
 |...||
 
 ## Dibujo del personaje
+![image](https://github.com/user-attachments/assets/ba75ff32-743c-4f37-8384-507f4166f604)
 
 
 ## Enlaces de la simulación de wokwi
@@ -33,8 +34,7 @@ https://wokwi.com/projects/410070889050588161
 
 Simulaión Personaje navideño
 https://wokwi.com/projects/410469426507009025
-## Videos
-Aquí estarán los vídeos de las explicaciones de los códigos.
+## Vídeo
 https://drive.google.com/drive/folders/1DmdKh8tLQ7EAToU--4VZDNmp-N_4hZDW?usp=sharing
 
 ## Capturas de Evaluaciones de Curso de C
