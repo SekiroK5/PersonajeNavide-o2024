@@ -25,14 +25,17 @@ El personaje tendrá un regalo en las manos, el cual lo estará moviendo continu
 |...||
 
 ## Dibujo del personaje
-Imagen hecha a mano o con software
+
 
 ## Enlaces de la simulación de wokwi
 Instrumento de evaluación
 https://wokwi.com/projects/410070889050588161
 
+Simulaión Personaje navideño
+https://wokwi.com/projects/410469426507009025
 ## Videos
-
+Aquí estarán los vídeos de las explicaciones de los códigos.
+https://drive.google.com/drive/folders/1DmdKh8tLQ7EAToU--4VZDNmp-N_4hZDW?usp=sharing
 
 ## Capturas de Evaluaciones de Curso de C
 Modulo 1
