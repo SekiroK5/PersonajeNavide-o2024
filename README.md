@@ -37,6 +37,10 @@ https://wokwi.com/projects/410469426507009025
 ## Vídeo
 https://drive.google.com/drive/folders/1DmdKh8tLQ7EAToU--4VZDNmp-N_4hZDW?usp=sharing
 
+##Demsotración de Thonny y Arduino
+![image](https://github.com/user-attachments/assets/4f21a4c8-d308-4c39-8040-d67a20715c29)
+
+
 ## Capturas de Evaluaciones de Curso de C
 Modulo 1
 ![image](https://github.com/user-attachments/assets/e45c5280-f7b7-4126-8a76-2253b0c0ffb0)
